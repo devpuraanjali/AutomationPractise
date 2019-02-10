@@ -18,7 +18,5 @@ Change directory to authentication and do the following -
 
 The tests can be run using the following commands 
 
-1) To build - mvn clean
-
-2) To run the tests - mvn test  
+mvn test  
 
