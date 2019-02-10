@@ -10,6 +10,9 @@ Install Maven
 
 Install Chrome (if you do not have already , the tests are using chromedriver to run the selenium tests)
 
+Checkout the project using  - git clone https://github.com/devpuraanjali/AutomationPractise
+cd to the project 
+cd to authentication and do the following 
 
 The tests can be run using the following commands 
 
