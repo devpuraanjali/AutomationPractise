@@ -16,7 +16,7 @@ Now change directory to the project on your local machine
 
 Change directory to authentication and do the following - 
 
-The tests can be run using the following commands 
+The tests can be run using the following commands  - 
 
 mvn test  
 
